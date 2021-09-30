@@ -4,8 +4,14 @@
 :computer:**I would like to become a professional Software Engineer**
 ### About me
 :boy: I have awesome son
+
+
 :blue_book:  I like reading
+
+
 :swimmer: and swimming
+
+
 :ocean: I dream of living by the ocean
 
 

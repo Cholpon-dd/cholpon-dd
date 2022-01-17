@@ -3,7 +3,7 @@
 ## Hello, My name is Cholpon and I'm a Frontend Developer.
 :computer:**I would like to become a professional Software Engineer**
 ### About me
-:boy: I have awesome son
+:world_map: I enjoy traveling
 
 
 :blue_book:  I like reading
@@ -25,7 +25,12 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-E6E6E6?style=for-the-badge&logo=Tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-129?style=for-the-badge&logo=jQuery&logoColor=#0769AD)
-![REACT](https://img.shields.io/badge/-React-E6E6E6?style=for-the-badge&logo=React&logoColor=blue) ![Gulp](https://img.shields.io/badge/-Gulp-FF7878?style=for-the-badge&logo=Gulp)  ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![REACT](https://img.shields.io/badge/-React-E6E6E6?style=for-the-badge&logo=React&logoColor=blue) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-1C6DD0?style=for-the-badge&logo=TypeScript&logoColor=white) 
+![Gulp](https://img.shields.io/badge/-Gulp-FF7878?style=for-the-badge&logo=Gulp)  
+![Webpack](https://img.shields.io/badge/-Webpack-F7F7F7?style=for-the-badge&logo=Webpack&logoColor=blue)  
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git) 
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-16C79A?style=for-the-badge&logo=Figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-1687A7?style=for-the-badge&logo=Photoshop)
 
 

@@ -30,7 +30,7 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-FF7878?style=for-the-badge&logo=Gulp) ![Webpack](https://img.shields.io/badge/-Webpack-F7F7F7?style=for-the-badge&logo=Webpack&logoColor=blue) ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-16C79A?style=for-the-badge&logo=Figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-1687A7?style=for-the-badge&logo=Photoshop)
 
-https://www.codewars.com/users/Cholpon-dd
+### https://www.codewars.com/users/Cholpon-dd
 
 
 
